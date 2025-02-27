@@ -5,7 +5,7 @@ Bu depo, **Udemy "100 Days of Code - Python"** Bootcamp'ini takip ederek yaptı�
 ## 📅 Günlük İlerleme
 
 ✅ **Day 1** - Working with Variables in Python to Manage Data  
-✅ **Day 2** - Understanding Data Types And How to Manipulate Strings
+✅ **Day 2** - Understanding Data Types And How to Manipulate Strings  
 ✅ **Day 3** - Control flow and Logical Operations 
 
 Her gün için `main.py` dosyasında kodlar, `notes.md` dosyasında notlar bulunmaktadır.
