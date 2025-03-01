@@ -16,6 +16,7 @@ You're at a crossroad. Where do you want to go?
 Type "left" or "right"
 📸 Screenshots
 I’ve added screenshots of my code execution.
+<img src="TreasureIsland.gif" width="800" />
 ![](TreasureIsland.gif)
 
 🎯 Summary:
