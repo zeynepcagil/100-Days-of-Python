@@ -16,9 +16,7 @@ You're at a crossroad. Where do you want to go?
 Type "left" or "right"
 📸 Screenshots
 I’ve added screenshots of my code execution.
-<img src="TreasureIsland.gif" width="800" />
-![](TreasureIsland.gif)
-
+![alt text](<Ekran görüntüsü 2025-03-01 183334.png>)
 🎯 Summary:
 Now I understand how to use logical operators, shorthand conditionals, and escape characters in strings!
 
