@@ -1,20 +1,30 @@
-# Gün 2:Understanding Data Types And How to Manipulate Strings
+📝 Day 2 - Understanding Data Types and String Manipulation
+📌 Today I Learned:
+Today, I explored different data types and how to manipulate strings in Python.
 
-## Veri Tipi Dönüşümü
-- `int()` fonksiyonu, float türündeki bir değeri tamsayıya çevirir.
+🔹 Type Conversion (int(), float(), str())
+The int() function converts a float to an integer.
 
-## Üs İşlemi
-- `**` operatörü, üs alma işlemi yapar (yani üs demektir).
+🔹 Exponentiation (**)
+The ** operator is used to calculate powers.
 
-## Yuvarlama İşlemi
-- `round()` fonksiyonu, sayıları belirtilen basamağa yuvarlar.
+🔹 Rounding Numbers (round())
+The round() function rounds a number to a specified number of decimal places.
 
-## f-string Kullanımı
-- f-string, değişkenleri string içine kolayca yerleştirmenizi sağlar.
-- **Örnek:**
-  ```python
-  score = 80
-  height = 1.65
-  is_winning = True
+🔹 Using f-strings for String Formatting
+F-strings allow variables to be embedded inside strings easily.
 
-  print(f"Your score is {score} your height is {height} and your winning is {is_winning}")
+Example:
+score = 80
+height = 1.65
+is_winning = True
+
+print(f"Your score is {score}, your height is {height}, and winning status is {is_winning}")
+
+Output:
+Your score is 80, your height is 1.65, and winning status is True
+📸 Screenshots
+I’ve added screenshots of my code execution.
+![](image.png)
+🎯 Summary:
+I learned how to manipulate data types, perform calculations, and use f-strings to make printing dynamic!

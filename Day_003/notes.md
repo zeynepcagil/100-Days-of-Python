@@ -1,12 +1,23 @@
-Gün 3: Control flow and Logical Operations
-## Koşul İfadelerinin Kısaltılması
-- Standart kullanım:
-  ```python
-  if age >= 45 and age <= 55:
-- Daha basit kulanımı
-if 45 <= age <= 55:if 45 <= age <= 55:
+📌 Today I Learned:
+Today, I learned about control flow, logical operations, and shorthand conditions.
 
-## Karakter Kaçışları (Escaping Characters)
-Print ederken veya string oluştururken, çift tırnak (") veya tek tırnak (') kullanmak gerektiğinde, bu karakterlerden kaçınmak için \ (ters slash) kullanılır.
-Örnek:
-input('You\'re at a cross road. Where do you want to go? \n Type "left" or "right" ')
+🔹 Shorthand Conditional Expressions
+Instead of writing:
+if age >= 45 and age <= 55:
+A simpler version is:
+if 45 <= age <= 55:
+🔹 Escaping Characters in Strings
+In Python, we can use \ (backslash) to escape special characters like quotes inside strings.
+
+Example:
+input("You're at a crossroad. Where do you want to go? \nType \"left\" or \"right\" ")
+Output:
+You're at a crossroad. Where do you want to go?  
+Type "left" or "right"
+📸 Screenshots
+I’ve added screenshots of my code execution.
+![](TreasureIsland.gif)
+
+🎯 Summary:
+Now I understand how to use logical operators, shorthand conditionals, and escape characters in strings!
+

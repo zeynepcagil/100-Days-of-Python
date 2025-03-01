@@ -13,7 +13,7 @@ This repository contains the projects and notes I created while following the Ud
 For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
 
 ## 📌 Notes  
-Official Bootcamp link: [Udemy Course Link](https://www.udemy.com/course/100-days-of-code-the-complete-python-pro-bootcamp-for-2023/)  
+Official Bootcamp link: [Udemy Course Link](https://www.udemy.com/course/100-days-of-code/)  
 This repository is entirely for educational and personal development purposes.  
 
 ### 🎉 Special Thanks  
