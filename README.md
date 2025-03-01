@@ -1,15 +1,20 @@
-# 100 Days of Code - Python
-100 Days of Code - Python
-This repository contains the projects and notes I created while following the Udemy "100 Days of Code - Python" Bootcamp.
+# 100 Days of Code - Python  
 
-## 📅 Daily Progress
-✅ **Day 1** - Working with Variables in Python to Manage Data  
-✅ **Day 2** - Understanding Data Types And How to Manipulate Strings  
-✅ **Day 3** - Control flow and Logical Operations 
+This repository contains the projects and notes I created while following the Udemy **"100 Days of Code - Python"** Bootcamp by **Dr. Angela Yu**. 🎓  
 
-For each day, the main.py file contains the code, and the notes.md file contains the notes.
+## 📅 Daily Progress  
 
-### 📌 Notes
-- Official Bootcamp link: [Udemy Course Link](https://www.udemy.com/course/100-days-of-code/)
-- This repository is entirely for educational and personal development purposes.
-Bu depo, **Udemy "100 Days of Code - Python"** Bootcamp'ini takip ederek yaptığım projeleri ve aldığım notları içerir.
+✅ Day 1 - Working with Variables in Python to Manage Data  
+✅ Day 2 - Understanding Data Types And How to Manipulate Strings  
+✅ Day 3 - Control Flow and Logical Operations  
+✅ Day 4 - Python Random Library  
+✅ Day 5 - Python Loops  
+
+For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
+
+## 📌 Notes  
+Official Bootcamp link: [Udemy Course Link](https://www.udemy.com/course/100-days-of-code-the-complete-python-pro-bootcamp-for-2023/)  
+This repository is entirely for educational and personal development purposes.  
+
+### 🎉 Special Thanks  
+A big thank you to **Dr. Angela Yu** for this amazing course! 🚀  
