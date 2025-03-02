@@ -9,6 +9,7 @@ This repository contains the projects and notes I created while following the Ud
 ✅ Day 3 - Control Flow and Logical Operations  
 ✅ Day 4 - Python Random Library  
 ✅ Day 5 - Python Loops  
+✅ Day 6 - Python While 
 
 For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
 
