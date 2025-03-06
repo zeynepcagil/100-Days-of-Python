@@ -1,68 +1,21 @@
 import random
-
-HANGMANPICS = ['''
-  +---+
-  |   |
-      |
-      |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
-      |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
-  |   |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
- /|   |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
- /|\  |
-      |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
- /|\  |
- /    |
-      |
-=========''', '''
-  +---+
-  |   |
-  O   |
- /|\  |
- / \  |
-      |
-=========''']
-word_list=["camel","strawberry","shark","baboon","deer","whale","glass"]
+from word_list import word_list
+import hangmanPics
 
 random_word=random.choice(word_list)
 length=len(random_word)
 print((length)*"_")
 correct_letters=[]
 live=6
-gameover=False
-print(HANGMANPICS.pop(0))
-while not gameover:
+gameOver: bool=False
+print(hangmanPics.HANGMANPICS.pop(0))
+print("You have 6 lives")
+while not gameOver:
 
     letter_guess = input("Guess a letter: ")
     display = ""
+    if letter_guess in correct_letters:
+        print(f"You've already guessed {letter_guess}")
 
     for letter in random_word:
 
@@ -78,17 +31,17 @@ while not gameover:
     print(display)
     if letter_guess not in random_word:
         live -= 1
-        print(f"You have {live} live")
-        print(HANGMANPICS.pop(0))
+        print(f"You guessed {letter_guess} ,that's not in the word. You have {live} live")
+        print(hangmanPics.HANGMANPICS.pop(0))
 
 
         if live==0:
-            gameover=True
+            gameOver=True
             print(f"You lose the word was {random_word}")
 
 
 
     if "_" not in display:
-        gameover=True
+        gameOver=True
         print("You won!")
 
