@@ -10,7 +10,7 @@ This repository contains the projects and notes I created while following the Ud
 ✅ Day 4 - Python Random Library  
 ✅ Day 5 - Python Loops  
 ✅ Day 6 - Python While  
-✅ Day 7 - Hangman Game
+✅ Day 7 - Hangman Game  
 ✅ Day 8 - Functions and Caesar Encryption/Decryption  
 ✅ Day 9 - Nesting, Lists and Dictionaries  
 ✅ Day 10 - Functions with Outputs & Docstrings  
