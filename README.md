@@ -14,7 +14,8 @@ This repository contains the projects and notes I created while following the Ud
 ✅ Day 8 - Functions and Caesar Encryption/Decryption  
 ✅ Day 9 - Nesting, Lists and Dictionaries  
 ✅ Day 10 - Functions with Outputs & Docstrings  
-✅ Day 11 - Blackjack Game
+✅ Day 11 - Blackjack Game  
+✅ Day 12 - Number Guessing Game
 
 For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
 
