@@ -6,10 +6,11 @@ user_answer=""
 right_answer=""
 
 def game():
-    a=random.sample(stars_dict["name"],2)
+    a=random.sample(stars_dict["name"],2) #A listesini oluşturduk random bir şekilde
+    #a listesindeki ilk isim ve ikinci isimden yani listteki 0 ve 1. değerlerin bizim stars dict sözlüğümüzde kaçıncı değer olduğunu buluyoruz
     index_a = stars_dict["name"].index(a[0])
     index_b = stars_dict["name"].index(a[1])
-    print(a)
+
 
     print(f"Compare A: {a[0]}, is a {stars_dict["job"][index_a]}, from {stars_dict["where"][index_a]}")
     print(f"Agains B: {a[1]}, is a {stars_dict["job"][index_b]}, from {stars_dict["where"][index_b]}")
