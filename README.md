@@ -18,6 +18,9 @@ This repository contains the projects and notes I created while following the Ud
 ✅ Day 12 - Number Guessing Game  
 ✅ Day 13 - Learning Debugging  
 ✅ Day 14 - HigherLower Game  
+✅ Day 15 - Coffee Machine  
+✅ Day 16 - OOP Coffee Machine    
+✅ Day 17 - Quiz Game  
 
 For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
 
