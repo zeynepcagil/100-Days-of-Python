@@ -1,0 +1,2 @@
+class Snake:
+    pass
