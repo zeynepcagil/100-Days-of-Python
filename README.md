@@ -24,6 +24,8 @@ This repository contains the projects and notes I created while following the Ud
 ✅ Day 18 - Hist Painting Project (**GUI**)  
 ✅ Day 19 - Turtle Race Project  
 ✅ Day 20 - Snake Game Part-1  
+✅ Day 21 - Snake Game Part-2  
+✅ Day 22 - Pong Game  
 
 For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
 
