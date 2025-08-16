@@ -22,6 +22,8 @@ This repository contains the projects and notes I created while following the Ud
 ✅ Day 16 - OOP Coffee Machine    
 ✅ Day 17 - Quiz Game  
 ✅ Day 18 - Hist Painting Project (**GUI**)  
+✅ Day 19 - Turtle Race Project  
+✅ Day 20 - Snake Game Part-1  
 
 For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
 
