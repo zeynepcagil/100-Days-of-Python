@@ -3,7 +3,7 @@ import time
 from snake import Snake
 snake=Snake()
 screen=Screen()
-screen.setup(600,600)
+screen.setup(800,600)
 screen.bgcolor("green")
 screen.title("Snake Game")
 screen.tracer(0)
