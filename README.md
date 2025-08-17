@@ -26,6 +26,8 @@ This repository contains the projects and notes I created while following the Ud
 ✅ Day 20 - Snake Game Part-1  
 ✅ Day 21 - Snake Game Part-2  
 ✅ Day 22 - Pong Game  
+✅ Day 23 - Turtle Crossing Capstone Project  
+  
 
 For each day, the `main.py` file contains the code, and the `notes.md` file contains the notes.  
 
